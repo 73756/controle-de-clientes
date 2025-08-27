@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-
 namespace Atividade
 {
     class Program
