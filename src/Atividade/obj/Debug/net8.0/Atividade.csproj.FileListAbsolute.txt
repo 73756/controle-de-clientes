@@ -1,0 +1,15 @@
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Documents\GitHub\controle-de-clientes\src\Atividade\obj\Debug\net8.0\ref\Atividade.dll
